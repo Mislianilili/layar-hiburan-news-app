@@ -40,6 +40,6 @@ File `config/env.json` masuk `.gitignore` sehingga API key tidak ikut ke reposit
 
 ### Skenario error
 
-| Tidak ada koneksi internet                      | API key salah (401)                     |
+| Tidak ada koneksi internet                      | API key salah                           |
 | ----------------------------------------------- | --------------------------------------- |
 | ![Error offline](screenshots/error_offline.png) | ![Error 401](screenshots/error_401.png) |
